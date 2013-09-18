@@ -1,7 +1,0 @@
-:default:
-  :aws_access_key_id: AKIAJGX3L2J6UBMJ3RYQ
-  :aws_secret_access_key: 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
-  :vsphere_server: vcenter.ops.puppetlabs.net
-  :vsphere_username: qaharness@puppetlabs.com
-  :vsphere_password: od1igCPsC53Y1Vuw2kVu
-  :vsphere_expected_pubkey_hash: ad2dac32c6621f2a70200dbe4775be0dd122f5a171485f449d3a693dfb17ace3
