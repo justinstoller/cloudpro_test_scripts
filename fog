@@ -1,7 +1,6 @@
 :default:
   :aws_access_key_id: AKIAJGX3L2J6UBMJ3RYQ
   :aws_secret_access_key: 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
-  :vsphere_server: vcsa.se.eng.puppetlabs.net
-  :vsphere_username: root
-  :vsphere_password: puppetlabs
-  :vsphere_expected_pubkey_hash: 64524e62f7bd73773305187ba605e1f800455ab1e66baab0d29ac270e79a5224
+  :vsphere_server: vc-cp-1.delivery.puppetlabs.net
+  :vsphere_username: cloudpro
+  :vsphere_password: Qu@lity!
